@@ -3,6 +3,7 @@
 
 /*Thr length & breath of a rectangle and radius of acircle are input through the keyboard.write a program to calculate the area & perimeter of the
  rectangle,and the area &circumference of the circle*/
+
 //(32°F − 32) × 5/9 = 0°C
 
 
@@ -30,3 +31,4 @@ int main()
 
         return 0;
 }
+
